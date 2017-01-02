@@ -1,6 +1,10 @@
 # New Site Template
 
-[TODO. There will be project description]
+## Описание
+Репозиторий содержит статические страницы сайта http://getbootstrap.com/examples/jumbotron/ со своими зависимостями.
+Рабочая директория включает следующие папки с зависимостями:
+* js - файлы с кодом на JavaScript;
+* css - файлы со css-стилями.
 
 # Project Goals
 
